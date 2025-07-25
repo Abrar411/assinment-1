@@ -37,3 +37,30 @@ nav{
     background-color: #4E47FF;
     color: aliceblue;
 }
+.second-div{
+   display: flex;
+   justify-content: center;
+   margin-top: 116px;
+}
+.second-h2{
+
+}
+.third-div{
+    margin-left: 130pxpx;
+    margin-right: 100px;
+    font-size: 38px ;
+}
+.fourth-div{
+    margin-right: 160px;
+    margin-left: 190px;
+    
+    border-radius: 15px;
+}
+.first-p{
+    color: #252432;
+}
+.button {
+margin-left: 360px;
+margin-top: 0px;
+
+}

@@ -1,0 +1,39 @@
+nav li{
+    list-style: none;
+   
+}
+
+.first-button{
+    font-size: 45px;
+    margin-right: 150px;
+    margin-top: 51px;
+   color: aliceblue;
+    border-radius: 10px;
+    padding: 20px 40px;
+    background-color: #4E47FF;
+}
+.first-h3{
+    font-size: 68px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: #4E47FF;
+}
+nav{
+    display: flex;
+ justify-content: space-between;
+}
+.first-div{
+   text-align: center;
+   margin-top: 309px;
+}
+.first-h2{
+    font-size: 68px;
+}
+.second-button{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 12px 32px;
+    margin-top: 25px;
+    background-color: #4E47FF;
+    color: aliceblue;
+}
